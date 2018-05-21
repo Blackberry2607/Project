@@ -1,0 +1,69 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+}
+
+
+    .smaller{
+    height: 39px;
+}
+
+.smallersubmit{
+    height:29px;
+}
+
+.colorslide{
+    background-color: gray;
+    height: 400px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    padding: 0 300px;
+    color: white;
+    font-weight: 2em;
+}
+
+.font{
+    font-weight: 1em;
+}
+
+.jumbo{
+    margin:200 2000px;
+    background-color: white;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    color: #303030;
+}
+
+.cz{
+    font-weight: 1em;
+}
+
+.image{
+    height: 100px;
+    align-items: center;
+}
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align:right;
+}
+
+.left{
+    text-align: left;
+    
+}
+.display-3{
+    font-weight: 10px;
+}
+.card1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
